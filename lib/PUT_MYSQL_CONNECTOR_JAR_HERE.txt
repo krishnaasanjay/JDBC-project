@@ -1,0 +1,2 @@
+Copy mysql-connector-j-x.x.x.jar from the Connector/J ZIP into this folder.
+Then delete this file.
